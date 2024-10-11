@@ -1,6 +1,7 @@
 baseURL = 'https://notes.pankajniroula.com/'
 languageCode = 'en-us'
 title = 'CS Notes'
+theme = 'hugo-book'
 
 enableGitInfo = true
 
@@ -9,3 +10,6 @@ enableGitInfo = true
     BookRepo = 'https://github.com/npankaj365/cs-notes'
     BookCommitPath = 'commit'
     BookEditPath = 'edit/main/content'
+
+[markup.goldmark.renderer]
+  unsafe = true
