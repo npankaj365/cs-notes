@@ -3,39 +3,16 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Pankaj's Notebook of CS Stuffs
 
-{{% columns %}}
-## Astris ipse furtiva
-
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
-
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{% /columns %}}
+## What is this about?
+As a PhD student diving deeper and deeper into the area of my interests, I encounter words that I am familiar with, but not be able to explain right away if I had to. I note down such words as I am reading papers or documentations here and there in whatever note-taking tool I have at disposal, but I also wanted to keep a centralized repository of all my deeper explorations. This is my attempt at just that.
 
 
-## Tempora nisi nunc
+## What is it going to include?
+At the moment of creation, I am thinking of mostly keeping the notes from my area of study and research, loosely Computer Science, more narrowly anything to do with Systems and Security. 
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+### **State of the Site**
++ Oct 11, 2024 
+  + Initialize
+  + Start Skeleton 

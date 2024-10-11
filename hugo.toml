@@ -1,6 +1,6 @@
 baseURL = 'https://notes.pankajniroula.com/'
 languageCode = 'en-us'
-title = 'CS Notes'
+title = 'PhD Notes'
 theme = 'hugo-book'
 
 enableGitInfo = true
