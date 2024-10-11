@@ -9,7 +9,7 @@ enableGitInfo = true
     BookTheme = 'auto' 
     BookRepo = 'https://github.com/npankaj365/cs-notes'
     BookCommitPath = 'commit'
-    BookEditPath = 'edit/main/content'
+    BookEditPath = 'edit/main/'
 
 [markup.goldmark.renderer]
   unsafe = true
