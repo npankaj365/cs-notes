@@ -1,0 +1,11 @@
+baseURL = 'https://notes.pankajniroula.com/'
+languageCode = 'en-us'
+title = 'CS Notes'
+
+enableGitInfo = true
+
+[params]
+    BookTheme = 'auto' 
+    BookRepo = 'https://github.com/npankaj365/cs-notes'
+    BookCommitPath = 'commit'
+    BookEditPath = 'edit/main/content'
